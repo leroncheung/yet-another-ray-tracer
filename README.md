@@ -1,5 +1,7 @@
 # **Y**et **A**nother **R**ay **T**racer
 
+> See more: [Modern CMake for Library Developers](https://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
+
 ## Dependencies
 
 - [Embree](https://embree.github.io/)
